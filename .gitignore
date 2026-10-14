@@ -1,6 +1,5 @@
 .env
 *.env
-.env.*
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv,jetbrains+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,jetbrains+all
