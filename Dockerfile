@@ -1,0 +1,5 @@
+FROM gotify/server:latest
+
+ENV GOTIFY_SERVER_PORT=8080
+
+EXPOSE 8080
